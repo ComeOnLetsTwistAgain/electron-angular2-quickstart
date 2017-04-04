@@ -4,7 +4,10 @@ This project was generated with
 - [Angular CLI](https://github.com/angular/angular-cli)
 - [Electron quickstart](https://github.com/electron/electron-quick-start)
 
-## Angular cli
+## Electron
+### Run
+
+`npm run electron`
 
 ## Angular cli
 ### Development server
